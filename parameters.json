@@ -1,0 +1,21 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_Schulung10_Export_name": {
+            "value": null
+        },
+        "networkInterfaces_schulung10_export73_name": {
+            "value": null
+        },
+        "publicIPAddresses_Schulung10_Export_ip_name": {
+            "value": null
+        },
+        "virtualNetworks_schulung10_export_vnet_name": {
+            "value": null
+        },
+        "networkSecurityGroups_Schulung10_Export_nsg_name": {
+            "value": null
+        }
+    }
+}
